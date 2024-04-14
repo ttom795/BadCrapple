@@ -2,6 +2,8 @@
 
 BadCrapple is a truly awful video renderer written in C using GBDK (Game Boy Development Kit). It takes the iconic "Bad Apple" video as an example and renders it in an incredibly inefficient manner.
 
+For what it's worth, I did everything from scratch (including learning how to use GBDK, OpenCV, and Assembly) in the space of about 5 hours.
+
 ## Features
 
 - Renders (most of) the "Bad Apple" video, and potentially any other video if you're brave enough, on the Game Boy.
